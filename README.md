@@ -1,10 +1,8 @@
 <div id="header" align="center">
 
-[<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_87ce9b9112bb489e9a6407b384eb1577~mv2.png" />](https://www.twitter.com/_patjd)
+[<img alt="twitter" width="250" src="https://static.wixstatic.com/media/88104f_3f5f006bd4324043a9d8a99c371ccfe6~mv2.png" />](https://www.twitter.com/_patjd)
 
-### Hi, I'm PJ!
-
-WebDev student | Coder Academy
+WebDev Student • Coder Academy
   
 </div>
 
