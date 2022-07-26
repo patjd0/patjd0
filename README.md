@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-[<img alt="twitter" width="400px" src="https://static.wixstatic.com/media/88104f_87ce9b9112bb489e9a6407b384eb1577~mv2.png" />](https://www.twitter.com/_patjd)
+[<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_87ce9b9112bb489e9a6407b384eb1577~mv2.png" />](https://www.twitter.com/_patjd)
 
 ### Hi, I'm PJ!
 
