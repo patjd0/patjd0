@@ -1,15 +1,15 @@
-<div id="header" align="center">
+<div id="header" align="left">
 
-[<img alt="twitter" width="250" src="https://static.wixstatic.com/media/88104f_3f5f006bd4324043a9d8a99c371ccfe6~mv2.png" />](https://www.twitter.com/_patjd)
+[<img alt="twitter" width="250" src="https://static.wixstatic.com/media/88104f_d7bedf73807b49c3bd2b2e56c4dcb18e~mv2.png" />](https://www.twitter.com/_patjd)
 
 WebDev Student • Coder Academy
   
 </div>
 
 
-#
+---
 
-<div id="stack" align="center">
+<div id="stack" align="left">
 
 ### Tech Stack 
 
@@ -25,17 +25,18 @@ Ruby • Rails • HTML • CSS
 
 #
 
-<div id="connect" align="center">
-
-[<img alt="twitter" width="100px" src="https://static.wixstatic.com/media/88104f_747e88e3504c4e898870762b556f0042~mv2.png" />](_patjd)
+<div id="connect" align="left">
 
 ### Get in touch!
 
 <!-- twitter -->
 [<img alt="twitter" width="27px" src="https://static.wixstatic.com/media/88104f_03f1210f3a454d7886300958c907b371~mv2.png" />](https://www.twitter.com/_patjd) <!-- linkedin --> [<img alt="linkedin" width="27px" src="https://static.wixstatic.com/media/88104f_e1c0cd25e06b499e91cf20d03efd5e18~mv2.png" />](https://www.linkedin.com/in/pjnoel/)
-<br>
 
 </div>
+
+---
+
+[<img alt="twitter" width="100px" src="https://static.wixstatic.com/media/88104f_747e88e3504c4e898870762b556f0042~mv2.png" />](_patjd)
 
 
 
